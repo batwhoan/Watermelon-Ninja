@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/resimler">
+        <file>images/2.png</file>
+        <file>images/back.jpg</file>
+        <file>images/fruit.png</file>
+    </qresource>
+</RCC>
